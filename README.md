@@ -89,8 +89,3 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 I keep a small production environment running day to day, and I also perform traditional Central Italian folk music on organetto and chromatic accordion — mostly at village festivals and heritage events.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperMatt02&show_icons=true&hide_border=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMatt02&layout=compact&hide_border=true" alt="Top languages" height="150">
-</p>
