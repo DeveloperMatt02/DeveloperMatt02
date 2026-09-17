@@ -38,7 +38,6 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 **ML & Data**
 
@@ -64,6 +63,14 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+**LLM & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
+
 **Infrastructure**
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server%202022-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -78,7 +85,7 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 | Project | What it is | Stack |
 |---|---|---|
 | **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/REPO)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives — logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
-| **[Sōkratēs](https://github.com/DeveloperMatt02/REPO)** | An AI tutor that answers questions with questions. Built at GDG AI HACK 2026 (160 participants selected from 500+) on the Braynr education track, with auto-generated concept maps and session-level comprehension scoring. | `TBD` |
+| **[Sōkratēs](https://github.com/DeveloperMatt02/Socrates-GDG-Hackathon-2026)** | An AI tutor that answers questions with questions. A five-agent LangGraph system that turns a document into a Socratic coaching session: concept maps, spoken Feynman-style explanations graded on clarity, a delta score driving adaptive hints, and peer matching on complementary knowledge gaps. Built at GDG AI HACK 2026, 160 participants selected from 500+ applicants. | `Python` `LangGraph` `LangChain` `Streamlit` `ElevenLabs` |
 | **[NightPlan](https://github.com/DeveloperMatt02/REPO)** | Desktop app connecting users and event organisers: live chat, real-time notifications, and one MVC core serving both a JavaFX GUI and a CLI. Designed from UML with explicit design patterns. | `Java` `JavaFX` `MySQL` |
 | **[¿WhoKnows?](https://github.com/DeveloperMatt02/REPO)** | Android trivia game pulling questions from a public API, with local caching for offline play and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` |
 
@@ -86,6 +93,6 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 
 ### Beyond the code
 
-I keep a small production environment running day to day, and I also perform traditional Central Italian folk music on organetto and chromatic accordion — mostly at village festivals and heritage events.
+I also perform traditional Central Italian folk music on organetto and chromatic accordion — mostly at village festivals and heritage events. :accordion: :accordion: :accordion:
 
 ---
