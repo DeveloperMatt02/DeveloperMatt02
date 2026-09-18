@@ -37,10 +37,11 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 **ML & Data**
 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-1a1a1a?style=flat-square)
@@ -62,6 +63,11 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
 **LLM & Agents**
 
@@ -87,7 +93,7 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 | **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/REPO)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives — logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
 | **[Sōkratēs](https://github.com/FerdinandoConte/Socrates-GDG-Hackathon-2026)** | An AI tutor that answers questions with questions. A five-agent LangGraph system that turns a document into a Socratic coaching session: concept maps, spoken Feynman-style explanations graded on clarity, a delta score driving adaptive hints, and peer matching on complementary knowledge gaps. Built at GDG AI HACK 2026, 160 participants selected from 500+ applicants. | `Python` `LangGraph` `LangChain` `Streamlit` `ElevenLabs` |
 | **[NightPlan](https://github.com/DeveloperMatt02/REPO)** | Desktop app connecting users and event organisers: live chat, real-time notifications, and one MVC core serving both a JavaFX GUI and a CLI. Designed from UML with explicit design patterns. | `Java` `JavaFX` `MySQL` |
-| **[¿WhoKnows?](https://github.com/DeveloperMatt02/REPO)** | Android trivia game pulling questions from a public API, with local caching for offline play and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` |
+| **[¿WhoKnows?](https://github.com/DeveloperMatt02/REPO)** | Android trivia game pulling questions from a public API, with local caching for offline play and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` `SQLite` |
 
 ---
 
