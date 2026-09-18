@@ -90,7 +90,7 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/arabica-quality-prediction)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives — logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
+| **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/arabica-quality-prediction)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives, logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
 | **[Sōkratēs](https://github.com/FerdinandoConte/Socrates-GDG-Hackathon-2026)** | An AI tutor that answers questions with questions. A five-agent LangGraph system that turns a document into a Socratic coaching session: concept maps, spoken Feynman-style explanations graded on clarity, a delta score driving adaptive hints, and peer matching on complementary knowledge gaps. Built at GDG AI HACK 2026, 160 participants selected from 500+ applicants. | `Python` `LangGraph` `LangChain` `Streamlit` `ElevenLabs` |
 | **[NightPlan](https://github.com/DeveloperMatt02/REPO)** | Desktop app connecting users and event organisers: live chat, real-time notifications, and one MVC core serving both a JavaFX GUI and a CLI. Designed from UML with explicit design patterns. | `Java` `JavaFX` `MySQL` |
 | **[¿WhoKnows?](https://github.com/DeveloperMatt02/REPO)** | Android trivia game pulling questions from a public API, with local caching for offline play and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` `SQLite` |
@@ -99,6 +99,6 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 
 ### Beyond the code
 
-I also perform traditional Central Italian folk music on organetto and chromatic accordion — mostly at village festivals and heritage events. :accordion: :accordion: :accordion:
+I also perform traditional Central Italian folk music on organetto and chromatic accordion, mostly at village festivals and heritage events. :accordion: :accordion: :accordion:
 
 ---
