@@ -80,9 +80,13 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 **Infrastructure**
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server%202022-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=synology&logoColor=black)
 ![QNAP](https://img.shields.io/badge/QNAP-0C2E82?style=flat-square&logo=qnap&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+
+
 
 ---
 
