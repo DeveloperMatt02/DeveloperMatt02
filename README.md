@@ -22,7 +22,7 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ### Currently
 
 - 📚 Working through **deep learning**, **data mining** and **recommender systems** 
-- 🔬 Heading toward an **MSc thesis** in applied AI
+- 🔬 Heading toward an **MSc thesis** in applied AI and intelligent optimization
 - 🛠️ Turning coursework into projects that actually run
 - 🎶 Off-screen: **organetto** and chromatic accordion at Italian folk festivals
 
