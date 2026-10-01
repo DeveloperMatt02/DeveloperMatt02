@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matteo-trossi-30062002at/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/matteotrossi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:matteotrossi002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -37,7 +37,10 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **ML & Data**
 
@@ -55,6 +58,11 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![MapLibre GL](https://img.shields.io/badge/MapLibre%20GL-396CB2?style=flat-square&logo=maplibre&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Databases & Big Data**
@@ -94,8 +102,10 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/arabica-quality-prediction)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives, logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
 | **[Sōkratēs](https://github.com/FerdinandoConte/Socrates-GDG-Hackathon-2026)** | An AI tutor that answers questions with questions. A five-agent LangGraph system that turns a document into a Socratic coaching session: concept maps, spoken Feynman-style explanations graded on clarity, a delta score driving adaptive hints, and peer matching on complementary knowledge gaps. Built at GDG AI HACK 2026, 160 participants selected from 500+ applicants. | `Python` `LangGraph` `LangChain` `Streamlit` `ElevenLabs` |
+| **[Milano Transit Simulator](https://github.com/DeveloperMatt02/milano-transit-simulator)**<br>[▶ Live demo](https://developermatt02.github.io/milano-transit-simulator/) | Milan's entire public transport network, moving live on a map. ATM publishes no real-time vehicle positions, so a Python pipeline turns City of Milan open data into a deterministic synthetic timetable: 5 metro lines, 142 surface lines and 4,690 stops, holiday-aware service days, departure boards, vehicle tracking and a 60× time-travel mode. No backend, bilingual, WCAG AA, tested in CI and auto-deployed to GitHub Pages. Independent side project. | `JavaScript` `Leaflet` `MapLibre GL` `Python` `GitHub Actions` |
+| **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/arabica-quality-prediction)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives, logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
+| **[Online Auction System](https://github.com/DeveloperMatt02/Online-Auction-System)** | An eBay-style auction platform where the database itself enforces the rules. Taken from requirements through ER, logical and physical design: 19 stored procedures, 7 triggers guarding every bid (€0.50 increments, automatic counter-bids up to each bidder's ceiling, 3-level category tree), scheduled events that open and close auctions on time, isolation levels chosen per transaction, and role-based DB users granted only `EXECUTE` on their own procedures. Java MVC thin client over JDBC. Database Systems course, BSc. | `SQL` `MariaDB` `Java` `JDBC` `Maven` |
 | **[NightPlan](https://github.com/DeveloperMatt02/NightPlan)** | Desktop app connecting users and event organisers: live chat, real-time notifications, and one MVC core serving both a JavaFX GUI and a CLI. Designed from UML with explicit design patterns. | `Java` `JavaFX` `MySQL` |
 | **[¿WhoKnows?](https://github.com/DeveloperMatt02/whoknows-android-trivia)** | Android trivia game pulling questions from a public API, with local caching for offline play and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` `SQLite` |
 
