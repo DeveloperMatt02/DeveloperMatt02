@@ -22,6 +22,7 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 ### Currently
 
 - 📚 Working through **deep learning**, **data mining** and **recommender systems** 
+- 🤝 Member of **Polimi Data Scientists**, the data science student association at Politecnico di Milano
 - 🔬 Heading toward an **MSc thesis** in applied AI and intelligent optimization
 - 🛠️ Turning coursework into projects that actually run
 - 🎶 Off-screen: **organetto** and chromatic accordion at Italian folk festivals
@@ -107,7 +108,7 @@ Alongside my studies I've spent five years as an **IT consultant**, running a sm
 | **[Arabica Quality Prediction](https://github.com/DeveloperMatt02/arabica-quality-prediction)** | Can you predict elite coffee before anyone tastes it? Classification on 1,311 CQI samples with only 8.2% positives, logistic regression, XGBoost and Random Forest, SMOTE-NC confined to training folds, and a target leak found via SHAP and removed. | `Python` `scikit-learn` `XGBoost` `SHAP` |
 | **[Online Auction System](https://github.com/DeveloperMatt02/Online-Auction-System)** | An eBay-style auction platform where the database itself enforces the rules. Taken from requirements through ER, logical and physical design: 19 stored procedures, 7 triggers guarding every bid (€0.50 increments, automatic counter-bids up to each bidder's ceiling, 3-level category tree), scheduled events that open and close auctions on time, isolation levels chosen per transaction, and role-based DB users granted only `EXECUTE` on their own procedures. Java MVC thin client over JDBC. Database Systems course, BSc. | `SQL` `MariaDB` `Java` `JDBC` `Maven` |
 | **[NightPlan](https://github.com/DeveloperMatt02/NightPlan)** | Desktop app connecting users and event organisers: live chat, real-time notifications, and one MVC core serving both a JavaFX GUI and a CLI. Designed from UML with explicit design patterns. | `Java` `JavaFX` `MySQL` |
-| **[¿WhoKnows?](https://github.com/DeveloperMatt02/whoknows-android-trivia)** | Android trivia game pulling questions from a public API, with local caching for offline play and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` `SQLite` |
+| **[¿WhoKnows?](https://github.com/DeveloperMatt02/whoknows-android-trivia)** | Android trivia game with live questions from a public API, game history saved locally with Room, connectivity-aware gameplay and coroutine-based concurrency. | `Kotlin` `Jetpack Compose` `Retrofit` `RoomDB` `SQLite` |
 
 ---
 
